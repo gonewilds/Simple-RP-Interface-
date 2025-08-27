@@ -1,5 +1,5 @@
 ## Gemini-Simple-RP-Interface
-A simple interface for using Gemini AI as a roleplay companion
+A simple interface for using Gemini Flash AI Model as a roleplay companion
 
 ### Focused For Mobile Environment 
 
